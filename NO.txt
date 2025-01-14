@@ -1,38 +1,38 @@
-NO	1270	Oslo	Oslo	01	Oslo	3201			59.8344	10.8309	1
-NO	1271	Oslo	Oslo	01	Oslo	3201			59.8251	10.8280	1
-NO	1272	Oslo	Oslo	01	Oslo	3201			59.8312	10.8260	1
-NO	1273	Oslo	Oslo	01	Oslo	3201			59.8188	10.8346	1
-NO	1274	Oslo	Oslo	01	Oslo	3201			59.8208	10.8450	1
-NO	1275	Oslo	Oslo	01	Oslo	3201			59.8300	10.8396	1
-NO	1277	Oslo	Oslo	01	Oslo	3201			59.8368	10.8367	1
-NO	1278	Oslo	Oslo	01	Oslo	3201			59.8400	10.8377	1
-NO	1279	Oslo	Oslo	01	Oslo	3201			59.8467	10.8681	1
-NO	1281	Oslo	Oslo	01	Oslo	3201			59.8424	10.8309	1
-NO	1283	Oslo	Oslo	01	Oslo	3201			59.8511	10.8242	1
-NO	1284	Oslo	Oslo	01	Oslo	3201			59.8573	10.8281	1
-NO	1285	Oslo	Oslo	01	Oslo	3201			59.8546	10.8434	1
-NO	1286	Oslo	Oslo	01	Oslo	3201			59.8487	10.8120	1
-NO	1290	Oslo	Oslo	01	Oslo	3201			59.8348	10.9053	1
-NO	1291	Oslo	Oslo	01	Oslo	3201			59.8200	10.8540	1
-NO	1294	Oslo	Oslo	01	Oslo	3201			59.8215	10.8629	1
-NO	1295	Oslo	Oslo	01	Oslo	3201			59.8170	10.8738	1
-NO	1311	Høvikodden	Akershus	01	Bærum	3201			59.8936	10.5363	1
-NO	1336	Sandvika	Akershus	01	Bærum	3201			59.8964	10.4925	1
-NO	1337	Sandvika	Akershus	01	Bærum	3201			59.8839	10.5387	1
-NO	1338	Sandvika	Akershus	01	Bærum	3201			59.8939	10.5137	1
-NO	1339	Vøyenenga	Akershus	01	Bærum	3201			59.9082	10.4748	1
-NO	1340	Skui	Akershus	01	Bærum	3201			59.9252	10.4522	1
-NO	1341	Slependen	Akershus	01	Bærum	3201			59.8828	10.5058	1
-NO	1344	Haslum	Akershus	01	Bærum	3201			59.9269	10.5702	1
-NO	1346	Gjettum	Akershus	01	Bærum	3201			59.9062	10.5217	1
-NO	1348	Rykkinn	Akershus	01	Bærum	3201			59.9261	10.4864	1
-NO	1349	Rykkinn	Akershus	01	Bærum	3201			59.9332	10.4706	1
-NO	1350	Lommedalen	Akershus	01	Bærum	3201			59.9618	10.4664	1
-NO	1351	Rud	Akershus	01	Bærum	3201			59.9071	10.49938552	1
-NO	1352	Kolsås	Akershus	01	Bærum	3201			59.9165	10.50377536	1
-NO	1353	Bærums Verk	Akershus	01	Bærum	3201			59.9400	10.5134	1
-NO	1354	Bærums Verk	Akershus	01	Bærum	3201			59.9434	10.4890	1
-NO	1356	Bekkestua	Akershus	01	Bærum	3201			59.9452	10.5580	1
-NO	1357	Bekkestua	Akershus	01	Bærum	3201			59.9221	10.5904	1
-NO	1358	Jar	Akershus	01	Bærum	3201			59.9245	10.6193	1
-NO	1359	Eiksmarka	Akershus	01	Bærum	3201			59.9482	10.6241	1
+NO	1270	Oslo	Oslo		Oslo				59.8344	10.8309	
+NO	1271	Oslo	Oslo		Oslo				59.8251	10.8280	
+NO	1272	Oslo	Oslo		Oslo				59.8312	10.8260	
+NO	1273	Oslo	Oslo		Oslo				59.8188	10.8346	
+NO	1274	Oslo	Oslo		Oslo				59.8208	10.8450	
+NO	1275	Oslo	Oslo		Oslo				59.8300	10.8396	
+NO	1277	Oslo	Oslo		Oslo				59.8368	10.8367	
+NO	1278	Oslo	Oslo		Oslo				59.8400	10.8377	
+NO	1279	Oslo	Oslo		Oslo				59.8467	10.8681	
+NO	1281	Oslo	Oslo		Oslo				59.8424	10.8309	
+NO	1283	Oslo	Oslo		Oslo				59.8511	10.8242	
+NO	1284	Oslo	Oslo		Oslo				59.8573	10.8281	
+NO	1285	Oslo	Oslo		Oslo				59.8546	10.8434	
+NO	1286	Oslo	Oslo		Oslo				59.8487	10.8120	
+NO	1290	Oslo	Oslo		Oslo				59.8348	10.9053	
+NO	1291	Oslo	Oslo		Oslo				59.8200	10.8540	
+NO	1294	Oslo	Oslo		Oslo				59.8215	10.8629	
+NO	1295	Oslo	Oslo		Oslo				59.8170	10.8738	
+NO	1311	Høvikodden	Akershus		Bærum				59.8936	10.5363	
+NO	1336	Sandvika	Akershus		Bærum				59.8964	10.4925	
+NO	1337	Sandvika	Akershus		Bærum				59.8839	10.5387	
+NO	1338	Sandvika	Akershus		Bærum				59.8939	10.5137	
+NO	1339	Vøyenenga	Akershus		Bærum				59.9082	10.4748	
+NO	1340	Skui	Akershus		Bærum				59.9252	10.4522	
+NO	1341	Slependen	Akershus		Bærum				59.8828	10.5058	
+NO	1344	Haslum	Akershus		Bærum				59.9269	10.5702	
+NO	1346	Gjettum	Akershus		Bærum				59.9062	10.5217	
+NO	1348	Rykkinn	Akershus		Bærum				59.9261	10.4864	
+NO	1349	Rykkinn	Akershus		Bærum				59.9332	10.4706	
+NO	1350	Lommedalen	Akershus		Bærum				59.9618	10.4664	
+NO	1351	Rud	Akershus		Bærum				59.9071	10.4993	
+NO	1352	Kolsås	Akershus		Bærum				59.9165	10.5037	
+NO	1353	Bærums Verk	Akershus		Bærum				59.9400	10.5134	
+NO	1354	Bærums Verk	Akershus		Bærum				59.9434	10.4890	
+NO	1356	Bekkestua	Akershus		Bærum				59.9452	10.5580	
+NO	1357	Bekkestua	Akershus		Bærum				59.9221	10.5904	
+NO	1358	Jar	Akershus		Bærum				59.9245	10.6193	
+NO	1359	Eiksmarka	Akershus		Bærum				59.9482	10.6241	
